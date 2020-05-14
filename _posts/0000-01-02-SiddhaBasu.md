@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to the second slide"
+title: "Welcome to our second slide!"
 ---
-"Sometimes you gotta run before you can walk"
-use the left arrow to go back
+:eggplant:
+Use the left arrow to go back!
